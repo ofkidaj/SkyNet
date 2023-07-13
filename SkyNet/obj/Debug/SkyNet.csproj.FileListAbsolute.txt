@@ -1,0 +1,11 @@
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\bin\Debug\SkyNet.exe.config
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\bin\Debug\SkyNet.exe
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\bin\Debug\SkyNet.pdb
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\bin\Debug\DTO.dll
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\bin\Debug\DTO.pdb
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.csproj.AssemblyReference.cache
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.csproj.SuggestedBindingRedirects.cache
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.csproj.CoreCompileInputs.cache
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.csproj.CopyComplete
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.exe
+D:\Clases\Semestres\2023-1\Programacion avanzada de aplicaciones\Repos Programacion Avanzada\Skynet\SkyNet\obj\Debug\SkyNet.pdb
